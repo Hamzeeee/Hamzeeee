@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi!<br><br>I'm a hobby programmer who enjoys working on a wide range of projects—from web applications to low-level systems programming.<br><br>Feel free to explore my GitHub page and check out what I've been building. If any of my projects prove useful, I'd be glad to know they've helped someone.<br><br>Thanks for stopping by!
+Hi!<br><br>I'm a hobby programmer who enjoys working on a wide range of projects from web applications to low-level systems programming.<br><br>Feel free to explore my GitHub page and check out what I've been building. If any of my projects prove useful, I'd be glad to know they've helped someone.<br><br>Thanks for stopping by!
 
 
 ## 🌐 Socials:
